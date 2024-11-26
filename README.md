@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yukato131
 - 👀 I’m interested in full-stack
 - 🌱 I’m currently learning new javascript frameworks for 2025
-- 💞️ I’m looking to collaborate on remote job
+- 💞️ I’m looking to collaborate with remote job
 - 📫 How to reach me 
 - 😄 Pronouns: Beaty Beast
 - ⚡ Fun fact: Umm... :) '!,...,!'
