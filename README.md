@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b.beast
 - 👀 I’m interested in full-stack
-- 🌱 I’m currently learning new javascript frameworks for 2025
+- 🌱 I’m currently learning new javascript frameworks for future
 - 💞️ I’m looking to collaborate with remote job
 - 📫 How to reach me 
 - 😄 Pronouns: Beauty Beast
