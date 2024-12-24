@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning new javascript frameworks for future
 - 💞️ I’m looking to collaborate with remote job
 - 📫 How to reach me 
-- 😄 Pronouns: Beauty Beast
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Umm... :) '!,...,!'
 
 <!---
