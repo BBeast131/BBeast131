@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Umm... :) '!,...,!'
 
 ## SQL Certification
-![HackerRank SQL advanced Certificate](https://github.com/BBeast131/HackerRank/sql_advanced.png)
+![HackerRank SQL advanced Certificate](https://github.com/BBeast131/BBeast131/blob/main/hackerrank/sql_advanced.png)
 
 <!---
 yukato131/yukato131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
