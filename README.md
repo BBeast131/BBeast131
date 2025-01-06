@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b.beast
-- 👀 I’m interested in full-stack
-- 🌱 I’m currently learning new javascript frameworks for future
+- 👀 I’m proficient in full-stack and blockchain development.
+- 🌱 I’m currently learning something new.
 - 💞️ I’m looking to collaborate with remote job
 - 📫 How to reach me 
 - 😄 Pronouns: he/him
