@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bbeast131
-- 👀 I’m proficient in full-stack and blockchain development.
-- 🌱 I’m passionate to learning something new.
-- 💞️ I’m looking to collaborate with remote job
+- 👀 I’m a senior full-stack and blockchain developer.
+- 🌱 I’m passionate about learning something new.
+- 💞️ I would like to collaborate on remote work.
 
 <!-- ## SQL Certification
 ![HackerRank SQL advanced Certificate](https://github.com/BBeast131/BBeast131/blob/main/hackerrank/sql_advanced.png) -->
