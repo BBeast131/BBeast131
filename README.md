@@ -81,8 +81,8 @@
       <br>Three.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
-      <br>Android
+      <img src="https://skillicons.dev/icons?i=expo" width="45" height="45" alt="expo" />
+      <br>Expo
     </td>
   </tr>
   <tr>
