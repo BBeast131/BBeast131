@@ -39,8 +39,8 @@
       <br>HardHat
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
-      <br>Rails
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="rails" />
+      <br>PHP
     </td>
   </tr>
   <tr>
@@ -87,8 +87,8 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-      <br>Ruby
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="mysql" />
+      <br>MySQL
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=go" title="GoLang" alt="GoLang " width="45" height="45"/>
