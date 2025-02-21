@@ -1,6 +1,5 @@
 <h1 align="center"> Senior Software Engineer </h1> 
 <br />
-<h1 align="center"> Archievements </h1>
 <table align="center">
 <tr>
     <td align="center" width="90">
