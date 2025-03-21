@@ -91,8 +91,8 @@
       <br>MySQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" title="GoLang" alt="GoLang " width="45" height="45"/>
-      <br>GoLang
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Light.svg" title="Flask" alt="Flask " width="45" height="45"/>
+      <br>Flask
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
