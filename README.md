@@ -73,8 +73,8 @@
       <br>Tailwind
     </td>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Light.svg" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
