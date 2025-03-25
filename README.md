@@ -87,8 +87,8 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="mysql" />
-      <br>MySQL
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
     </td>
     <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Light.svg" title="Flask" alt="Flask " width="45" height="45"/>
@@ -123,9 +123,10 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="mysql" />
+      <br>MySQL
     </td>
+    
   </tr>
 </table>
 <br/>
