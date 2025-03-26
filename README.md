@@ -65,8 +65,8 @@
       <br>Angular
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="Svelte" />
-      <br>Svelte
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
@@ -103,10 +103,10 @@
       <br>PyTorch
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
+      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="Svelte" />
+      <br>Svelte
     </td>
-       <td align="center" width="90">
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="androidstudio" />
       <br>Android
     </td>
